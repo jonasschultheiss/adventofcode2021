@@ -1,0 +1,16 @@
+{
+  "name": "adventofcode2021",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/jonasschultheiss/adventofcode2021",
+  "author": "jonasschultheiss",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "commander": "^8.3.0",
+    "glob": "^7.2.0"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
