@@ -1,6 +1,5 @@
 "use strict";
 const { program } = require("commander");
-const glob = require("glob");
 
 const challengeDictionary = {};
 
